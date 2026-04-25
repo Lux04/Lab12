@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: mn.csm311.lab12.BankAccountTest
--------------------------------------------------------------------------------
-Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.170 s -- in mn.csm311.lab12.BankAccountTest
