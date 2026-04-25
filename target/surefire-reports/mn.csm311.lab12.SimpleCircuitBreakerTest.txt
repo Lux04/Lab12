@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mn.csm311.lab12.SimpleCircuitBreakerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.048 s -- in mn.csm311.lab12.SimpleCircuitBreakerTest
